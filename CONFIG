@@ -1,3 +1,5 @@
+proxies:
+
 warp-1  - {name: warp-1, type: wireguard, server: 188.114.99.157, port: 1387, ip: 172.16.0.2, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, private-key: mEYwuzpuLBi9GM6zUUWP73hwEr6iZ3rfB5lDlocudn4=, mtu: 1280, udp: true, remote-dns-resolve: true, dns: [ 1.1.1.1, 8.8.8.8 ]}
 warp-2  - {name: warp-2, type: wireguard, server: 162.159.195.172, port: 7559, ip: 172.16.0.2, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, private-key: mEYwuzpuLBi9GM6zUUWP73hwEr6iZ3rfB5lDlocudn4=, mtu: 1280, udp: true, remote-dns-resolve: true, dns: [ 1.1.1.1, 8.8.8.8 ]}
 warp-3  - {name: warp-3, type: wireguard, server: 188.114.99.75, port: 903, ip: 172.16.0.2, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, private-key: mEYwuzpuLBi9GM6zUUWP73hwEr6iZ3rfB5lDlocudn4=, mtu: 1280, udp: true, remote-dns-resolve: true, dns: [ 1.1.1.1, 8.8.8.8 ]}
